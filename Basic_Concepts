@@ -21,3 +21,14 @@ print(20 % 6)
 # a string is not a variable
 print("variable")
 print(variable)
+#since " and ' start and end a string you have to escape ' and " when you want to write them with a backslash
+print("er sagte es sei \"whack\"")
+# three """ or \n make a new line
+print("""this
+is a
+multiline \ntext""")
+
+# Variables
+# the name of a variable cannot start with a number and can contain only numbers, letters and underscores
+x = 13
+del x #now x doesn't exist anymore so u can't e.g. print it
