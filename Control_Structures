@@ -1,3 +1,8 @@
 # Booleans & Comparisons
 # boolean values: True & False
 # operators: == != < > <= >=
+
+# if Statements
+if expression==True:
+  statements
+else/elif:
